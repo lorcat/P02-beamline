@@ -1,6 +1,6 @@
 Python and Python related:
 
-The source code is developed for the purpose of the Petra-III beamline.
+The source code is developed for the purpose of the DESY Petra-III P02 beamline.
 
 The source code license is GPL v.3 license in agreement with PyQt restrictions.
 
