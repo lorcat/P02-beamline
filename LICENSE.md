@@ -10,6 +10,10 @@ PyQt is distributed with GPL v.3 license
 Qt is distributed with LGPL license
 
 
+
+
 Gnuplot related:
 
 All code fragments come under Creative Commons Attribution-ShareAlike 3.0 Unported License.
+For the details of the license please see:
+http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
